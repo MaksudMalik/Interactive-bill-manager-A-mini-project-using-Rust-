@@ -1,4 +1,4 @@
-## Interactive-bill-manager-A-mini-project-using-Rust
+## Interactive bill manager-A mini project using [Rust](https://www.rust-lang.org/)
 A command line bills/expenses manager written in Rust that runs interactively. This mini project brings together many of the basic concepts of into a single application.
 
 ### Interface
